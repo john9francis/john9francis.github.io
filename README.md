@@ -2,6 +2,8 @@
 
 ![Profile picture](docs/assets/profile.png)
 
+[About me](docs/aboutme.md)
+
 ## links:
 * [Github](https://github.com/john9francis/)
 * [YouTube](https://www.youtube.com/channel/UCDJQomy5ICn2fkJWiCm9Dig)
