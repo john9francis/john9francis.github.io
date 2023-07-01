@@ -1,6 +1,6 @@
 # John Francis
 
-![Profile picture](docs/assets/)
+![Profile picture](docs/assets/profile.png)
 
 ## links:
 * [Github](https://github.com/john9francis/)
