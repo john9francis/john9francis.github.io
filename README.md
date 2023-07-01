@@ -2,9 +2,7 @@
 
 ![Profile picture](docs/assets/profile.png)
 
-[About me](docs/aboutme)
-
-TESTING
+[About me](aboutme)
 
 ## links:
 * [Github](https://github.com/john9francis/)
