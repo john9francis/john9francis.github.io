@@ -2,7 +2,8 @@
 
 ![Profile picture](docs/assets/profile.png)
 
-[About me](aboutme.md)
+## About me:
+
 
 ## links:
 * [Github](https://github.com/john9francis/)
