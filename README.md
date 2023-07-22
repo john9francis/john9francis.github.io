@@ -2,12 +2,16 @@
 
 ![Profile picture](docs/assets/profile.png)
 
-## links:
+## External Links:
 * [Github](https://github.com/john9francis/)
 * [YouTube](https://www.youtube.com/channel/UCDJQomy5ICn2fkJWiCm9Dig)
 * [LinkedIn](https://www.linkedin.com/in/john-francis-472a4513a/)
 * [Twitter](https://twitter.com/john9francis)
 * [itch.io](https://john9francis.itch.io/)
+
+## Projects:
+* [Radiation Modeling](https://john9francis.github.io/radiation-modeling/)
+* [Photon Dose Sim](https://github.com/john9francis/photon-dose-sim)
 
 ## About me:
 I am from Orem UT, and attended BYU - Idaho in Rexburg ID. There I met my wife, Violet, and a couple years later we had our son, Rudy.
