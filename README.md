@@ -9,13 +9,14 @@
 * [Twitter](https://twitter.com/john9francis)
 * [itch.io](https://john9francis.itch.io/)
 
-## Support my work:
-* [Buy me a coffee](https://ko-fi.com/john9francis)
-* [Buy me a boba tea](https://bmc.link/john9francis)
-
 ## Projects:
 * [Radiation Modeling](https://john9francis.github.io/radiation-modeling/)
 * [Photon Dose Sim](https://github.com/john9francis/photon-dose-sim)
+* [G4 Hello World](https://github.com/john9francis/G4-Hello-World)
+
+## Support my work:
+* [Buy me a coffee](https://ko-fi.com/john9francis)
+* [Buy me a boba tea](https://bmc.link/john9francis)
 
 ## About me:
 I am from Orem UT, and attended BYU - Idaho in Rexburg ID. There I met my wife, Violet, and a couple years later we had our son, Rudy.
