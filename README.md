@@ -12,7 +12,7 @@
 ## Projects:
 * [Radiation Modeling](https://john9francis.github.io/radiation-modeling/)
 * [Photon Dose Sim](https://github.com/john9francis/photon-dose-sim)
-* [G4 Hello World](https://github.com/john9francis/G4-Hello-World)
+* [Geant4 Hello World](https://github.com/john9francis/G4-Hello-World)
 
 ## Support my work:
 * [Buy me a coffee](https://ko-fi.com/john9francis)
