@@ -13,6 +13,11 @@
 * [Radiation Modeling](https://john9francis.github.io/radiation-modeling/)
 * [Photon Dose Sim](https://github.com/john9francis/photon-dose-sim)
 * [Geant4 Hello World](https://github.com/john9francis/G4-Hello-World)
+* [Geant4 Bremsstralung](https://github.com/john9francis/G4-Brems)
+* [Geant4 3DCRT](https://github.com/john9francis/Geant4-3DCRT)
+
+## Tutorials:
+* [Programming Datastructures: stack, set, and tree](https://john9francis.github.io/datastructures/)
 
 ## Support my work:
 * [Buy me a coffee](https://ko-fi.com/john9francis)
