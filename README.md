@@ -9,8 +9,9 @@
 * [Twitter](https://twitter.com/john9francis)
 * [itch.io](https://john9francis.itch.io/)
 
-## Donate:
-* [Buy me a coffee](https://bmc.link/john9francis)
+## Support my work:
+* [Buy me a coffee](https://ko-fi.com/john9francis)
+* [Buy me a boba tea](https://bmc.link/john9francis)
 
 ## Projects:
 * [Radiation Modeling](https://john9francis.github.io/radiation-modeling/)
