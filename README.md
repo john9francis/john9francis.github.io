@@ -29,5 +29,5 @@ I am from Orem UT, and attended BYU - Idaho in Rexburg ID. There I met my wife, 
 
 I have a Bachelors of Science in Physics with a Mathematics Emphasis and a Computer Programming Certificate, all from BYU - Idaho. I am planning on going on to get my Masters of Science in Medical Physics. 
 
-I am passionate about Physics, Math, creativity, and creating software.
+I am passionate about physics, math, creativity, and creating software.
 
