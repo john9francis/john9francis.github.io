@@ -2,6 +2,14 @@
 
 ![Profile picture](docs/assets/profile.png)
 
+
+## About me:
+I am from Orem UT, and attended BYU - Idaho in Rexburg ID where I got my bachelor's degree in physics. I am currently working on a master's degree in medical physics at the University of Florida (go gators! 🦎)
+
+I care about creating safe, reliable, and performant software. I have had experience working with and developing Geant4 applications, and have many side-projects on my [github page.](https://github.com/john9francis)
+
+In my free time I like spending time with my wife, 1.5-year-old son, and dog. I also do some game development, and am proud to present some of my games at [john9francis.itch.io](https://john9francis.itch.io/). I like being active whether it be skateboarding, going to the gym, and spending time outside. 
+
 ## External Links:
 * [Github](https://github.com/john9francis/)
 * [YouTube](https://www.youtube.com/channel/UCDJQomy5ICn2fkJWiCm9Dig)
@@ -13,8 +21,13 @@
 * [Radiation Modeling](https://john9francis.github.io/radiation-modeling/)
 * [Photon Dose Sim](https://github.com/john9francis/photon-dose-sim)
 * [Geant4 Hello World](https://github.com/john9francis/G4-Hello-World)
-* [Geant4 Bremsstralung](https://github.com/john9francis/G4-Brems)
-* [Geant4 3DCRT](https://github.com/john9francis/Geant4-3DCRT)
+* [Geant4 medical linac](https://github.com/john9francis/g4-medical-linac)
+* [Geant4 radiation shielding](https://github.com/john9francis/radiation-shielding)
+* [Modified Geant4 STCyclotron](https://github.com/john9francis/modified-G4STCyclotron)
+
+## Other software projects
+* [Remora 3D renderer using the network](https://github.com/remora-3d-graphics)
+* [Data fitting method algorithms](https://github.com/john9francis/fitting-methods)
 
 ## Programming Tutorials:
 * [Programming Datastructures: stack, set, and tree](https://john9francis.github.io/datastructures/)
@@ -22,12 +35,3 @@
 
 ## Support my work:
 * [Buy me a coffee](https://ko-fi.com/john9francis)
-* [Buy me a boba tea](https://bmc.link/john9francis)
-
-## About me:
-I am from Orem UT, and attended BYU - Idaho in Rexburg ID. There I met my wife, Violet, and a couple years later we had our son, Rudy.
-
-I have a Bachelors of Science in Physics with a Mathematics Emphasis and a Computer Programming Certificate, all from BYU - Idaho. I am planning on going on to get my Masters of Science in Medical Physics. 
-
-I am passionate about physics, math, creativity, and creating software.
-
