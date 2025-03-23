@@ -28,6 +28,7 @@ In my free time I like spending time with my wife, 1.5-year-old son, and dog. I 
 ## Other software projects
 * [Remora 3D renderer using the network](https://github.com/remora-3d-graphics)
 * [Data fitting method algorithms](https://github.com/john9francis/fitting-methods)
+* [JS 3d renderer](https://john9francis.github.io/js-3d-renderer/)
 
 ## Programming Tutorials:
 * [Programming Datastructures: stack, set, and tree](https://john9francis.github.io/datastructures/)
