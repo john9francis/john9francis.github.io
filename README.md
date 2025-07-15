@@ -10,7 +10,7 @@ I am from Orem UT, and attended BYU - Idaho in Rexburg ID where I got my bachelo
 
 I care about creating safe, reliable, and performant software. I have had experience working with and developing Geant4 applications, and have many side-projects on my [github page.](https://github.com/john9francis)
 
-In my free time I like spending time with my wife, 1.5-year-old son, and dog. I also do some game development, and am proud to present some of my games at [john9francis.itch.io](https://john9francis.itch.io/). I like being active whether it be skateboarding, going to the gym, and spending time outside. 
+In my free time I like spending time with my wife, kids, and dog. I also do some game development, and am proud to present some of my games at [john9francis.itch.io](https://john9francis.itch.io/). I like being active whether it be skateboarding, going to the gym, or spending time outside. 
 
 ## External Links:
 * [Github](https://github.com/john9francis/)
