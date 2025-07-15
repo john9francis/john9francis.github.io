@@ -1,6 +1,8 @@
 # John Francis
 
-![Profile picture](docs/assets/profile.png)
+<!-- ![Profile picture](docs/assets/profile.png) -->
+
+<img src="./docs/assets/profile.png" width="400px">
 
 
 ## About me:
