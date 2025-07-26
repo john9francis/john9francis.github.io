@@ -4,6 +4,8 @@
 
 <img src="./docs/assets/profile.png" width="400px">
 
+## Current announcements
+[Monte carlo modeler](https://montecarlomodeler.com) is now officially published! I need alpha testers before I give the public full access, so for now just check out the "browse public models" section. If you are interested in helping test the website, shoot me an email at montecarlomodeler@gmail.com
 
 ## About me:
 I am from Orem UT, and attended BYU - Idaho in Rexburg ID where I got my bachelor's degree in physics. I am currently working on a master's degree in medical physics at the University of Florida (go gators! 🦎)
