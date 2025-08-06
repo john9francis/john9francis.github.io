@@ -4,7 +4,7 @@
 
 <img src="./docs/assets/profile.png" width="400px">
 
-[🦋 john.social.john9francis.com](https://bsky.app/profile/john.social.john9francis.com)
+[🦋 @john9francis.com](https://bsky.app/profile/john9francis.com)
 
 ## Current announcements
 [Monte carlo modeler](https://montecarlomodeler.com) is now officially published! I need alpha testers before I give the public full access, so for now just check out the "browse public models" section. If you are interested in helping test the website, shoot me an email at montecarlomodeler@gmail.com
