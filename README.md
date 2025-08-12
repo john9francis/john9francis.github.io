@@ -6,6 +6,8 @@
 
 [🦋 @john9francis.com](https://bsky.app/profile/john9francis.com)
 
+[patreon](https://patreon.com/john9francis?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
+
 ## Current announcements
 [Monte carlo modeler](https://montecarlomodeler.com) is now officially published! I need alpha testers before I give the public full access, so for now just check out the "browse public models" section. If you are interested in helping test the website, shoot me an email at montecarlomodeler@gmail.com
 
